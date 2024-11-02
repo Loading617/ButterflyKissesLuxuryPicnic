@@ -31,7 +31,7 @@
 
     <main>
         <div class="container">
-            <h1>Gallery</h1>
+            <?php echo "<h1>Gallery</h1>" ; ?>
 
             <div class="gallery">
                 <div class="gallery-item">
