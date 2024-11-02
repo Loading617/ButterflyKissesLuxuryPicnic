@@ -2,5 +2,5 @@
 	<img src="butterflykissesluxurypicnic.png" width="608" height="298" alt="Butterfly Kisses Luxury Picnic">  
 </p>
 
-# ButterflyKissesLuxuryPicnic
+# Butterfly Kisses Luxury Picnic
 An Picnic Event Planner Site
