@@ -29,7 +29,7 @@
     </header>
 
     <main>
-        <h1>Butterfly Kisses Luxury Picnic</h1>
+        <?php echo "<h1>Butterfly Kisses Luxury Picnic</h1>"; ?>
         <?php echo "<p>
         At Butterfly Kisses Luxury Picnic, we understand that every guest deserves a special and memorable day. Our passion for creating memorable and enjoyable experiences is what drives us to continue to provide you with the best possible services.
         We are dedicated to allowing you to be able to share your experience with others in the community.
