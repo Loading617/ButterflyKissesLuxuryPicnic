@@ -1,2 +1,2 @@
 # ButterflyKissesLuxuryPicnic
-Event Planner Site
+An Picnic Event Planner Site
