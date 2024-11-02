@@ -31,12 +31,12 @@
 
     <main>
         <div class="container">
-            <h1>Contact Us</h1>
-            <p>
+            <?php echo "<h1>Contact Us</h1>" ; ?>
+            <?php echo "<p>
                 To reach us, please use the following contact details:<br>
                 Phone: <a href="tel:+8039154747">(803) 915-4747</a><br>
                 Email: <a href="mailto:belindahouse941@gmail.com">belindahouse941@gmail.com</a><br>
-                </p>
+                </p>"; ?>
                 
                 <form id="myForm">
                 <div class="container">
