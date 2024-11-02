@@ -30,7 +30,7 @@
 
     <main>
         <div class="container">
-            <h1>Picnic & Events</h1>
+            <?php echo "<h1>Picnic & Events</h1>; ?>
             <?php echo "<p>
             Here at, Butterfly Kisses Luxury Picnic we here to celebrate provide a great event experience.
             From the simple gatherings to the elaborate celebrations, Butterfly Kisses Luxury Picnic offers a wide range of options to suit your needs.
