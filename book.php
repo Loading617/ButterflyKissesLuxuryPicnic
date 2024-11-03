@@ -32,7 +32,7 @@
     <main>
         <div class="container">
         <?php echo "<h1>Book with Butterfly Kisses Luxury Picnic</h1>"; ?>
-        <?php echo "<p>Book your picnic with us and enjoy the luxury of Butterfly Kisses Luxury Picnic. Our picnic options include picnics, birthday parties, graduation celebrations, and anniversary events. Please let us know which event you'd like to book and we'll do our best to achieve.
+        <?php echo "<p>Book your picnic with us and enjoy the luxury of <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong>. Our picnic options include picnics, birthday parties, graduation celebrations, and anniversary events. Please let us know which event you'd like to book and we'll do our best to achieve.
         We'll make sure to accommodate your needs and preferences, and we'll provide you with the best possible experience. Please let us know if you have any questions or need further assistance.</p>"; ?>
         <form id="myForm">
         <form action="script.js" method="post">
