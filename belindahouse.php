@@ -34,7 +34,7 @@
   <div class="container">
     <img src="belindahouse.jpg" alt="Belinda House" width="405" height="405" class="floating-img">
     <?php echo "<p>
-      Butterfly Kisses Luxury Picnic, Founded in 2022, Founder Belinda House, is an Event Planner for your event needs for your Date Nights, Birthdays & Anniversaries to make your picnic events come true.
+      <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong>, Founded in 2022, Founder Belinda House, is an Event Planner for your event needs for your Date Nights, Birthdays & Anniversaries to make your picnic events come true.
       We are committed to providing you with the best possible experience at our luxurious Butterfly Kisses Luxury Picnic.
       Our mission is to create memorable and enjoyable experiences for our guests, while also ensuring that our facilities and services are of the highest quality and sustainability standards.
       Sharing passion for creating memorable and enjoyable experiences is what drives us to continue to provide you with the best possible services.
@@ -51,7 +51,7 @@
       We look forward to seeing you at our events and making sure that your picnic is a truly special and memorable experience for all of your guests.
       <br>
       <br>
-      Thanks for visiting our website Butterfly Kisses Luxury Picnic. We hope to See you Again!!!! "Say "I Do"!
+      Thanks for visiting our website <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong>. We hope to See you Again!!!! "Say "I Do"!
     </p>"; ?>
 </main>
 </div>
