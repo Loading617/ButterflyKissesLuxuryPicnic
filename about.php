@@ -53,7 +53,7 @@
         <footer>
                 <div class="container">
                 &copy; 2024 Butterfly Kisses Luxury Picnic. All rights reserved. | <a href="mailto:belindahouse941@gmail.com">belindahouse941@gmail.com</a><br>
-                <a href="tel:+8039154747">(803) 915-4747</a> | Columbia, SC Event Planner
+                <a href="tel:+8039154747">(803) 915-4747</a> | Address Coming Soon! | Columbia, SC Event Planner
                 </div>
             </footer>
         </div>
