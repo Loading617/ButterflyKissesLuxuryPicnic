@@ -56,6 +56,7 @@
         </div>
     </main>
 
+    <div class="socials-section"></div>
                             
     <footer>
         <div class="container">
