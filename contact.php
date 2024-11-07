@@ -35,7 +35,7 @@
             <?php echo "<p>
                 To reach us, please use the following contact details:<br>
                 Phone: <a href="tel:+8039154747">(803) 915-4747</a><br>
-                Email: <a href="mailto:belindahouse941@gmail.com">belindahouse941@gmail.com</a><br>
+                Email: <a href="mailto:belindahouse40@gmail.com">belindahouse40@gmail.com</a><br>
                 </p>"; ?>
                 
                 <form id="myForm">
