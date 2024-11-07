@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" type="image/x-icon" href="butterflykissesluxurypicnic.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" type="text/css" href="styles.css">
     <link rel="stylesheet" type="text/css" href="script.js">
 </head>
@@ -56,7 +57,14 @@
 <div id="message" style="display: none;">Thanks for Contacting Us. We Will Hit You Back Soon!</div>
                 </div>
     </main>
-
+                    
+    <div class="socials-section">
+    <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
+    <a href="https://www.facebook.com/profile.php?id=100083296629256" class="social-link" target="_blank"><i class="fab fa-facebook"></i></a>
+    <a href="https://www.tiktok.com/belindahouse0" class="social-link" target="_blank"><i class="fab fa-tiktok"></i></a>
+    <a href="https://www.instagram.com/house_belinda/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
+    </div>
+                    
             <footer>
                 <div class="container">
                 &copy; 2024 Butterfly Kisses Luxury Picnic. All rights reserved. | Address Coming Soon! | Columbia, SC Event Planner
