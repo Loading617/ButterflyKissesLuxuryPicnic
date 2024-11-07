@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Butterfly Kisses Luxury Picnic ▦ About Us</title>
+    <title>Butterfly Kisses Luxury Picnic ▦ About</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -52,7 +52,7 @@
         
         <footer>
                 <div class="container">
-                &copy; 2024 Butterfly Kisses Luxury Picnic. All rights reserved. | <a href="mailto:belindahouse941@gmail.com">belindahouse941@gmail.com</a><br>
+                &copy; 2024 Butterfly Kisses Luxury Picnic. All rights reserved. | <a href="mailto:belindahouse40@gmail.com">belindahouse40@gmail.com</a><br>
                 <a href="tel:+8039154747">(803) 915-4747</a> | Address Coming Soon! | Columbia, SC Event Planner
                 </div>
             </footer>
