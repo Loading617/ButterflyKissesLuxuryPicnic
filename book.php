@@ -41,7 +41,7 @@
             <input type="text" id="name" name="name" placeholder="ex. Jessica House" required><br><br>
 
             <label for="email">Email</label>
-            <input type="email" id="email" name="email" placeholder="jahimsankoh241@gmail.com" required><br><br>
+            <input type="email" id="email" name="email" placeholder="jadewilson241@gmail.com" required><br><br>
 
             <label for="phone">Phone</label>
             <input type="tel" id="phone" name="phone" placeholder="(803) 241-8888" required><br><br>
