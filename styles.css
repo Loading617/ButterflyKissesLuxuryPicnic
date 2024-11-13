@@ -210,44 +210,17 @@ video {
   display:block;
 }
 
-div.elem-group {
-  margin: 20px 0;
-}
-
-div.elem-group.inlined {
-  width: 49%;
-  display: inline-block;
-  margin-left: 1%;
-}
-
-label {
-  display: block;
-  font-family: "Playfair Display, serif";
-  padding-bottom: 10px;
-  font-size: 1.25em;
-}
-
-input, select, textarea {
-  width: 100%;
-  padding: 10px;
-  border-radius: 5px;
-  border: 1px solid #bf94e4;
-  box-sizing: border-box;
-  font-size: 1.25em;
+form {
+  display: flex;
+  flex-direction: column;
+  width: min(500px, 100%);
+  gap: 1em;
   font-family: "Playfair Display, serif";
 }
 
-div.elem-group.inlined input {
-  width: 95%;
-  display: inline-block;
-}
-
-textarea {
-  height: 250px;
-}
-
-hr {
-  border: 1px solid #bf94e4
+.form-group{
+  display: flex;
+  flex-direction: column;
 }
 
 button {
