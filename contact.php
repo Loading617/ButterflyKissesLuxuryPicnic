@@ -43,7 +43,7 @@
                 <div class="container">
                     <form action="script.js" method="post">
 
-                            <label class="required">First Name</label>
+                            <label class="required">Name</label>
                             <input type="text" name="full_name" placeholder="ex. Alicia Smith" required>
 
                             <label class="required">Email</label>
