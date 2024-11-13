@@ -1,18 +1,18 @@
 const form = document.querySelector('.bookform');
-const name = document.querySelector('#name');
-const email = document.querySelector('#email');
-const tel = document.querySelector('#tel')
-const participants = document.querySelector('#participants');
-const eventtype = document.querySelector('#eventtype');
-const starttime = document.querySelector('#starttime');
-const endtime = document.querySelector('#endtime');
-const date = document.querySelector('#date');
-const somethingelse = document.querySelector('#somethingelse');
+const name = document.querySelector('name');
+const email = document.querySelector('email');
+const tel = document.querySelector('tel')
+const participants = document.querySelector('participants');
+const eventtype = document.querySelector('eventtype');
+const starttime = document.querySelector('starttime');
+const endtime = document.querySelector('endtime');
+const date = document.querySelector('date');
+const somethingelse = document.querySelector('somethingelse');
 
 // contact information
-const name = document.querySelector('#name');
-const email = document.querySelector('#email');
-const message = document.querySelector('#message');
+const name = document.querySelector('name');
+const email = document.querySelector('email');
+const message = document.querySelector('message');
 
   // Show message after Form submission
   const form = document.getElementById('myForm');
