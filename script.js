@@ -51,3 +51,4 @@ const message = document.querySelector('message');
     console.log(`Date: ${date.value}`);
     console.log(`Something Else: ${somethingelse.value}`);
     form.reset();
+  });
