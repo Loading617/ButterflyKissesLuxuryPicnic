@@ -50,7 +50,7 @@
                             <input type="email" name="email" placeholder="ex. aliciasmith@gmail.com" required>
                         
                             <label class="message">Message</label>
-                            <textarea name="message" rows="5" placeholder="ex. Hi, Belinda I have Questions, Comments or Concerns"></textarea>
+                            <textarea name="message" rows="5" placeholder="ex. Hi Belinda, I have Questions, Comments or Concerns"></textarea>
                         
   <button type="submit">Submit</button>
 </form>
