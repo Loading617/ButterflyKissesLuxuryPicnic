@@ -13,14 +13,14 @@
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Playfair Display", serif;
   line-height: 1.6;
   color: var(--text-color);
   background-color: var(--secondary-color);
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  min-height: 100svh;
+  min-height: 100vh;
 }
 
 .container {
@@ -145,6 +145,8 @@ p{
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
   transition: transform 0.3s ease;
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
 
 .gallery-item:hover {
@@ -244,10 +246,6 @@ div.elem-group.inlined input {
 
 textarea {
   height: 250px;
-}
-
-hr {
-  border: 1px solid #bf94e4
 }
 
 button {
