@@ -13,7 +13,7 @@
 }
 
 body {
-  font-family: "Playfair Display", serif;
+  font-family: "Roboto", serif;
   line-height: 1.6;
   color: var(--text-color);
   background-color: var(--secondary-color);
