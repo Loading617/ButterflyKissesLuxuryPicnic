@@ -43,7 +43,6 @@ header {
 .logo img {
   max-width: 250px;
   height: auto;
-  border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
 
@@ -51,6 +50,10 @@ img{
   border-style: dotted;
   border-width: 2px;
   border-color: rgb(138, 43, 226);   
+}
+
+.page-with-border .border-image {
+  border: 5px solid #8a2be2;
 }
 
 .floating-img {
