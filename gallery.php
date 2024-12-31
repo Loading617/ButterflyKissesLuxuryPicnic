@@ -31,11 +31,12 @@
 
     <main>
         <div class="container">
-            <?php echo"<h1>Gallery</h1>"; ?>
+            <h1>Gallery</h1>
+
+            <p>Welcome to our luxurious gallery! Here, you'll find some stunning photos of our Belinda House and its surroundings. Feel free to explore and enjoy our memories at our picnic.</p>
 
             <div class="gallery">
                 <div class="gallery-item">
-                    <div class="no-border">
                     <img src="chocolate.png" alt="Luxury Picnic 1">
                     <div class="social-overlay">
                         <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
@@ -45,8 +46,8 @@
                     </div>
                 </div>
                 </div>
+
                 <div class="gallery-item">
-                    <div class="no-border">
                     <img src="Love to mama.png" alt="Luxury Picnic 2">
                     <div class="social-overlay">
                         <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
@@ -56,8 +57,8 @@
                         </div>
                     </div>
                 </div>
+                
                 <div class="gallery-item">
-                    <div class="no-border">
                     <img src="Just Because Picnicfortwo.png" alt="Luxury Picnic 3">
                     <div class="social-overlay">
                         <a href="http://instagram.com/butterflykissses_luxurypicnic" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
@@ -67,8 +68,8 @@
                     </div>
                 </div>
             </div>
+
             <div class="gallery-item">
-                <div class="no-border">
                     <img src="Tea party 2024.png" alt="Luxury Picnic 4">
                     <div class="social-overlay">
                         <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
@@ -78,8 +79,8 @@
                     </div>
                 </div>
             </div>
+
             <div class="gallery-item">
-                <div class="no-border">
                     <img src="About last night.png" alt="Luxury Picnic 5">
                     <div class="social-overlay">
                         <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
@@ -89,8 +90,8 @@
                     </div>
                 </div>
             </div>
+
             <div class="gallery-item">
-                <div class="no-border">
                     <img src="Real or Fake.png" alt="Luxury Picnic 6">
                     <div class="social-overlay">
                         <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
