@@ -1,7 +1,3 @@
-// no border
-const pageElement = document.getElementById('myPage'); 
-pageElement.style.border = 'none';
-
 const form = document.querySelector('.bookform');
 const name = document.querySelector('#name');
 const email = document.querySelector('#email');
