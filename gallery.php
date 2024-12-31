@@ -31,10 +31,11 @@
 
     <main>
         <div class="container">
-            <?php echo "<h1>Gallery</h1>" ; ?>
+            <?php echo"<h1>Gallery</h1>"; ?>
 
             <div class="gallery">
                 <div class="gallery-item">
+                    <div class="no-border">
                     <img src="chocolate.png" alt="Luxury Picnic 1">
                     <div class="social-overlay">
                         <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
@@ -43,16 +44,20 @@
                         <a href="https://www.instagram.com/house_belinda/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
                     </div>
                 </div>
+                </div>
                 <div class="gallery-item">
+                    <div class="no-border">
                     <img src="Love to mama.png" alt="Luxury Picnic 2">
                     <div class="social-overlay">
                         <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
                         <a href="https://www.facebook.com/profile.php?id=100083296629256" class="social-link" target="_blank"><i class="fab fa-facebook"></i></a>
                         <a href="https://www.tiktok.com/belindahouse0" class="social-link" target="_blank"><i class="fab fa-tiktok"></i></a>
                         <a href="https://www.instagram.com/house_belinda" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
+                        </div>
                     </div>
                 </div>
                 <div class="gallery-item">
+                    <div class="no-border">
                     <img src="Just Because Picnicfortwo.png" alt="Luxury Picnic 3">
                     <div class="social-overlay">
                         <a href="http://instagram.com/butterflykissses_luxurypicnic" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
@@ -63,6 +68,7 @@
                 </div>
             </div>
             <div class="gallery-item">
+                <div class="no-border">
                     <img src="Tea party 2024.png" alt="Luxury Picnic 4">
                     <div class="social-overlay">
                         <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
@@ -73,6 +79,7 @@
                 </div>
             </div>
             <div class="gallery-item">
+                <div class="no-border">
                     <img src="About last night.png" alt="Luxury Picnic 5">
                     <div class="social-overlay">
                         <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
@@ -83,6 +90,7 @@
                 </div>
             </div>
             <div class="gallery-item">
+                <div class="no-border">
                     <img src="Real or Fake.png" alt="Luxury Picnic 6">
                     <div class="social-overlay">
                         <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
@@ -103,7 +111,7 @@
     
     <footer>
                 <div class="container">
-                &copy; 2024 Butterfly Kisses Luxury Picnic. All rights reserved. | <a href="mailto:belindahouse40@gmail.com">belindahouse40@gmail.com</a><br>
+                &copy; 2022-2024 Butterfly Kisses Luxury Picnic. All rights reserved. | <a href="mailto:belindahouse40@gmail.com">belindahouse40@gmail.com</a><br>
                 <a href="tel:+8039154747">(803) 915-4747</a> | Address Coming Soon! | Columbia, SC Event Planner
                 </div>
             </footer>
