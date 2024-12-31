@@ -32,12 +32,14 @@
 </header>
 
 <main>
-  <?php echo "<h1>Belinda House</h1>"; ?>
+  <h1>Belinda House</h1>
   <div class="container">
-    <img src="belindahouse.jpg" alt="Belinda House" width="405" height="405" class="floating-img">
-    <?php echo "<p>
-      <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong>, Founded in 2022, Founder Belinda House, is an Event Planner for your event needs for your Date Nights, Birthdays & Anniversaries to make your picnic events come true.
-      We are committed to providing you with the best possible experience at our luxurious Butterfly Kisses Luxury Picnic.
+    <body class="page-with-border">
+    <img src="belindahouse.jpg" alt="Belinda House" width="405" height="405" class="border-image" class="floating-img">
+    </body>
+    <p>
+    <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong>, Founded in 2022, Founder Belinda House, is an Event Planner for your event needs for your Date Nights, Birthdays & Anniversaries to make your picnic events come true.
+      We are committed to providing you with the best possible experience at our luxurious <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong>.
       Our mission is to create memorable and enjoyable experiences for our guests, while also ensuring that our facilities and services are of the highest quality and sustainability standards.
       Sharing passion for creating memorable and enjoyable experiences is what drives us to continue to provide you with the best possible services.
       With us, you deserve to enjoy your time with us as we always have a great time with you and you are all beautiful.
@@ -53,12 +55,12 @@
       We look forward to seeing you at our events and making sure that your picnic is a truly special and memorable experience for all of your guests.
       <br>
       <br>
-      Thanks for visiting our website <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong>. We hope to See you Again!!!! "Say "I Do"!
-    </p>"; ?>
+      Thanks for visiting our website <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong>. We hope to See you Again!!!! <strong><span style="color: rgb(191, 148, 228)">Say "I Do"!</strong>
+    </p>
 </main>
 </div>
 
-    <div class="socials-section">
+<div class="socials-section">
     <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
     <a href="https://www.facebook.com/profile.php?id=100083296629256" class="social-link" target="_blank"><i class="fab fa-facebook"></i></a>
     <a href="https://www.tiktok.com/belindahouse0" class="social-link" target="_blank"><i class="fab fa-tiktok"></i></a>
@@ -67,7 +69,7 @@
 
 <footer>
   <div class="container">
-    &copy; 2024 Butterfly Kisses Luxury Picnic. All rights reserved. | <a href="mailto:belindahouse40@gmail.com">belindahouse40@gmail.com</a><br>
+    &copy; 2022-2024 Butterfly Kisses Luxury Picnic. All rights reserved. | <a href="mailto:belindahouse40@gmail.com">belindahouse40@gmail.com</a><br>
     <a href="tel:+8039154747">(803) 915-4747</a> | Address Coming Soon! | Columbia, SC Event Planner
   </div>
 </footer>
