@@ -265,6 +265,12 @@ button:hover {
   border: 2px solid white;
 }
 
+.socials-section {
+  background-color: #bf94e4;
+  padding: 20px;       
+  text-align: center;
+}
+
 footer {
   background-color: var(--primary-color);
   color: var(--light-text);
@@ -301,7 +307,7 @@ footer {
   }
 }
 
-.socials-section{
+.social-section{
   display: flex;
   margin-top: 40px;
   position: relative;
