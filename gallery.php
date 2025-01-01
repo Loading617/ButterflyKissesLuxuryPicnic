@@ -32,7 +32,6 @@
     <main>
         <div class="container">
             <?php echo"<h1>Gallery</h1>"; ?>
-
             <?php echo"<p>Welcome to our luxurious gallery! Here, you'll find some stunning photos of Belinda's Butterfly Kisses Luxury Picnic and its surroundings. Feel free to explore and enjoy our memories at our picnic.</p>"; ?>
 
             <div class="gallery">
