@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head <?php echo""; ?>>
+<head>
     <title>Butterfly Kisses Luxury Picnic ▦ Belinda House</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
-<body <?php echo""; ?>>
+<body>
     
 <header>
   <div class="container">
@@ -32,12 +32,12 @@
 </header>
 
 <main>
-  <h1>Belinda House</h1>
+  <?php echo"<h1>Belinda House</h1>"; ?>
   <div class="container">
     <body class="page-with-border">
     <img src="belindahouse.jpg" alt="Belinda House" width="405" height="405" class="border-image" class="floating-img">
     </body>
-    <p>
+    <?php echo"<p>
     <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong>, Founded in 2022, Founder Belinda House, is an Event Planner for your event needs for your Date Nights, Birthdays & Anniversaries to make your picnic events come true.
       We are committed to providing you with the best possible experience at our luxurious <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong>.
       Our mission is to create memorable and enjoyable experiences for our guests, while also ensuring that our facilities and services are of the highest quality and sustainability standards.
@@ -56,7 +56,7 @@
       <br>
       <br>
       Thanks for visiting our website <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong>. We hope to See you Again!!!! <strong><span style="color: rgb(191, 148, 228)">Say "I Do"!</strong>
-    </p>
+    </p>; ?>
 </main>
 </div>
 
