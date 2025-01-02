@@ -261,10 +261,23 @@ button:hover {
   border: 2px solid white;
 }
 
-.socials-section {
+.social-section {
   background-color: #bf94e4;
-  padding: 20px;       
+  padding: 20px;
   text-align: center;
+  border-radius: 10px;
+}
+
+.social-section .social-icon {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 16px;
+  transition: color 0.3s;
+}
+
+.social-section .social-icon:hover {
+  color: #808080;
 }
 
 footer {
