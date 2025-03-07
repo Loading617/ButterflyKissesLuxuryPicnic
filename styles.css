@@ -189,7 +189,7 @@ a{
 }
 
 .social-link:hover {
-  color: var(--accent-color);
+  color: any_color;
 }
 
 .video-gallery {
@@ -303,6 +303,7 @@ footer {
 
 .socials a:hover {
   transform: scale(1.2);
+  color: #808080;
 }
 
 @media (max-width: 768px) {
