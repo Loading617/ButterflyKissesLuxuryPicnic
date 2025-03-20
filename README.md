@@ -3,4 +3,4 @@
 </p>
 
 # Butterfly Kisses Luxury Picnic
-A Picnic Event Planner Site
+A Picnic Event Planner Website
