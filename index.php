@@ -32,7 +32,7 @@
 
     <main>
         <div class="container">
-            <h1>Welcome To The Butterfly Kisses Luxury Picnic Website!</h1>
+            <h1>Welcome To Butterfly Kisses Luxury Picnic Website!</h1>
             <?php echo "<h2>Say I do!</h2>"; ?>
             <?php echo "<h2>Our Picnic Experiences</h2>"; ?>
             <div class="video-gallery">
