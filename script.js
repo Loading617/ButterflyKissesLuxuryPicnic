@@ -9,33 +9,28 @@ const endtime = document.querySelector('#endtime');
 const date = document.querySelector('#date');
 const somethingelse = document.querySelector('#somethingelse');
 
-// contact information
 const name = document.querySelector('#name');
 const email = document.querySelector('#email');
 const message = document.querySelector('#message');
 
-  // Show message after Form submission
   const form = document.getElementById('myForm');
   const message = document.getElementById('message');
   
   form.addEventListener('submit', (event) => {
-    event.preventDefault(); // Prevent default form submission
+    event.preventDefault();
   
-    // Perform form submission logic here (e.g., send data to server)
   
-    message.style.display = 'block'; // Show the message
+    message.style.display = 'block';
   });
 
-  // Show message after contact information submission
   const contactForm = document.getElementById('contactForm');
   const contactMessage = document.getElementById('contactMessage');
   
   contactForm.addEventListener('submit', (event) => {
-    event.preventDefault(); // Prevent default form submission
+    event.preventDefault();
   
-    // Perform form submission logic here (e.g., send data to server)
   
-    contactMessage.style.display = 'block'; // Show the message
+    contactMessage.style.display = 'block';
   });
 
   form.addEventListener("submit", event => {
