@@ -35,7 +35,7 @@
             
             <div class="gallery">
                 <div class="gallery-item">
-                    <img src="chocolate.png" alt="Luxury Picnic 1">
+                    <img src="chocolate.png" alt="Butterfly Kisses Luxury Picnic Photo">
                     <div class="social-overlay">
                         <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
                         <a href="https://www.facebook.com/profile.php?id=100083296629256" class="social-link" target="_blank"><i class="fab fa-facebook"></i></a>
@@ -44,7 +44,7 @@
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="Love to mama.png" alt="Luxury Picnic 2">
+                    <img src="Love to mama.png" alt="Butterfly Kisses Luxury Picnic Photo 2">
                     <div class="social-overlay">
                         <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
                         <a href="https://www.facebook.com/profile.php?id=100083296629256" class="social-link" target="_blank"><i class="fab fa-facebook"></i></a>
@@ -53,7 +53,7 @@
                         </div>
                     </div>
                 <div class="gallery-item">
-                    <img src="Just Because Picnicfortwo.png" alt="Luxury Picnic 3">
+                    <img src="Just Because Picnicfortwo.png" alt="Butterfly Kisses Luxury Picnic Photo 3">
                     <div class="social-overlay">
                         <a href="http://instagram.com/butterflykissses_luxurypicnic" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
                         <a href="https://www.facebook.com/profile.php?id=100083296629256" class="social-link" target="_blank"><i class="fab fa-facebook"></i></a>
@@ -62,7 +62,7 @@
                     </div>
                 </div>
             <div class="gallery-item">
-                    <img src="Tea party 2024.png" alt="Luxury Picnic 4">
+                    <img src="Tea party 2024.png" alt="Butterfly Kisses Luxury Picnic Photo 4">
                     <div class="social-overlay">
                         <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
                         <a href="https://www.facebook.com/profile.php?id=100083296629256" class="social-link" target="_blank"><i class="fab fa-facebook"></i></a>
@@ -71,7 +71,7 @@
                     </div>
                 </div>
             <div class="gallery-item">
-                    <img src="About last night.png" alt="Luxury Picnic 5">
+                    <img src="About last night.png" alt="Butterfly Kisses Luxury Picnic Photo 5">
                     <div class="social-overlay">
                         <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
                         <a href="https://www.facebook.com/profile.php?id=100083296629256" class="social-link" target="_blank"><i class="fab fa-facebook"></i></a>
@@ -80,7 +80,7 @@
                     </div>
                 </div>
             <div class="gallery-item">
-                    <img src="Real or Fake.png" alt="Luxury Picnic 6">
+                    <img src="Real or Fake.png" alt="Butterfly Kisses Luxury Picnic Photo 6">
                     <div class="social-overlay">
                         <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
                         <a href="https://www.facebook.com/profile.php?id=100083296629256" class="social-link" target="_blank"><i class="fab fa-facebook"></i></a>
