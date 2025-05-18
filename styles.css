@@ -276,10 +276,6 @@ button:hover {
   transition: color 0.3s;
 }
 
-.social-section .social-icon:hover {
-  color: #808080;
-}
-
 footer {
   background-color: var(--primary-color);
   color: var(--light-text);
