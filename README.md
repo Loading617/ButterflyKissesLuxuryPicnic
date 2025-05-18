@@ -3,4 +3,4 @@
 </p>
 
 # Butterfly Kisses Luxury Picnic
-A Picnic Event Planner Website
+A Picnic Event Planner focused on: Date Nights, Self Love, Birthday Celebrations, Anniversaries & etc.
