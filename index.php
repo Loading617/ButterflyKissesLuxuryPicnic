@@ -35,27 +35,50 @@
             <h1>Welcome To Butterfly Kisses Luxury Picnic Website!</h1>
             <?php echo "<h2>Say I do!</h2>"; ?>
             <?php echo "<h2>Our Picnic Experiences</h2>"; ?>
-            <div class="video-gallery">
-                <div class="video-item">
-                    <video src="./vids/butterflykissesluxurypicnicvideo.mp4" type="video/mp4" width="400" controls allow="picture-in-picture"></video>
-                </div>
-                <div class="video-item">
-                    <video src="./vids/butterflykissesluxurypicnicvideo2.mp4" type="video/mp4" width="400" controls allow="picture-in-picture"></video>
-                </div>
-                <div class="video-item">
-                    <video src="./vids/butterflykissesluxurypicnicvideo3.mp4" type="video/mp4" width="400" controls allow="picture-in-picture"></video>
-                </div>
-                <div class="video-item">
-                    <video src="./vids/butterflykissesluxurypicnicvideo4.mp4" type="video/mp4" width="400" controls allow="picture-in-picture"></video>
-                </div>
-                <div class="video-item">
-                    <video src="./vids/butterflykissesluxurypicnicvideo5.mp4" type="video/mp4" width="400" controls allow="picture-in-picture"></video>
-                </div>
-                <div class="video-item">
-                    <video src="./vids/butterflykissesluxurypicnicvideo6.mp4" type="video/mp4" width="400" controls allow="picture-in-picture"></video>
+            <main class="video-gallery">
+        <div class="video-item" src="./vids/butterflykissesluxurypicnicvideo.mp4">
+            <div class="play-overlay">▶</div>
+        </div>
+
+        <div class="video-item" src="./vids/butterflykissesluxurypicnicvideo2.mp4">
+            <div class="play-overlay">▶</div>
+        </div>
+
+        <div class="video-item" src="./vids/butterflykissesluxurypicnicvideo3.mp4">
+            <div class="play-overlay">▶</div>
+        </div>
+
+        <div class="video-item" src="./vids/butterflykissesluxurypicnicvideo4.mp4">
+            <div class="play-overlay">▶</div>
+        </div>
+
+        <div class="video-item" src="./vids/butterflykissesluxurypicnicvideo5.mp4">
+            <div class="play-overlay">▶</div>
+        </div>
+
+        <div class="video-item" src="./vids/butterflykissesluxurypicnicvideo6.mp4">
+            <div class="play-overlay">▶</div>
+        </div>
+    </main>
+
+    <div id="videoModal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <div class="custom-video-player">
+                <video id="customVideo" preload="auto"> Your browser does not support the video tag.
+                </video>
+                <div class="player-controls">
+                    <button id="playPauseButton">▶</button>
+                    <div class="progress-bar-container">
+                        <div id="progressBar" class="progress-bar"></div>
+                    </div>
+                    <span id="currentTime">0:00</span> / <span id="duration">0:00</span>
                 </div>
             </div>
         </div>
+    </div>
+
+    <script src="script.js"></script>
     </main>
 
     <div class="social-section">
