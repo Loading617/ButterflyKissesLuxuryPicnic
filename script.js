@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Open modal and load video
     videoItems.forEach(item => {
         item.addEventListener('click', () => {
-            const videoSrc = item.getAttribute('data-video-src');
+            const videoSrc = item.getAttribute('data-src');
             // const posterSrc = item.getAttribute('data-poster-src'); // Not used directly in <video> here, but could be.
 
             customVideo.src = videoSrc;
