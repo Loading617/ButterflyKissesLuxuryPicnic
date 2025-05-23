@@ -36,27 +36,27 @@
             <?php echo "<h2>Say I do!</h2>"; ?>
             <?php echo "<h2>Our Picnic Experiences</h2>"; ?>
             <main class="video-gallery">
-        <div class="video-item" src="./vids/butterflykissesluxurypicnicvideo.mp4">
+        <div class="video-item" data-src="./vids/butterflykissesluxurypicnicvideo.mp4">
             <div class="play-overlay">▶</div>
         </div>
 
-        <div class="video-item" src="./vids/butterflykissesluxurypicnicvideo2.mp4">
+        <div class="video-item" data-src="./vids/butterflykissesluxurypicnicvideo2.mp4">
             <div class="play-overlay">▶</div>
         </div>
 
-        <div class="video-item" src="./vids/butterflykissesluxurypicnicvideo3.mp4">
+        <div class="video-item" data-src="./vids/butterflykissesluxurypicnicvideo3.mp4">
             <div class="play-overlay">▶</div>
         </div>
 
-        <div class="video-item" src="./vids/butterflykissesluxurypicnicvideo4.mp4">
+        <div class="video-item" data-src="./vids/butterflykissesluxurypicnicvideo4.mp4">
             <div class="play-overlay">▶</div>
         </div>
 
-        <div class="video-item" src="./vids/butterflykissesluxurypicnicvideo5.mp4">
+        <div class="video-item" data-src="./vids/butterflykissesluxurypicnicvideo5.mp4">
             <div class="play-overlay">▶</div>
         </div>
 
-        <div class="video-item" src="./vids/butterflykissesluxurypicnicvideo6.mp4">
+        <div class="video-item" data-src="./vids/butterflykissesluxurypicnicvideo6.mp4">
             <div class="play-overlay">▶</div>
         </div>
     </main>
