@@ -14,7 +14,7 @@
     <header>
         <div class="container">
             <div class="logo">
-            <img src="butterflykissesluxurypicnic.png" alt="Butterfly Kisses Luxury Picnic" width="608" height="298">
+            <img src="butterflykissesluxurypicnic.png" alt="Butterfly Kisses Luxury Picnic Logo" width="608" height="298">
             </div>
             <nav>
                 <ul>
@@ -98,3 +98,4 @@
     </footer>
 </body>
 </html>
+
