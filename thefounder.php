@@ -32,7 +32,7 @@
 </header>
 
 <main>
-  <?php echo"<h1>Belinda House</h1>"; ?>
+  <?php echo"<h1>The Founder, Meet Belinda House!</h1>"; ?>
   <div class="container">
     <body class="page-with-border">
     <img src="belindahouse.jpg" alt="Belinda House" width="405" height="405" class="border-image" class="floating-img">
@@ -76,4 +76,5 @@
 
 </body>
 </html>
+
 
