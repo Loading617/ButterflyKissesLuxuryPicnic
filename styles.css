@@ -23,6 +23,12 @@ body {
   min-height: 100vh;
 }
 
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
 header {
   background-color: var(--primary-color);
   color: var(--secondary-color);
@@ -475,5 +481,6 @@ footer {
       margin: 10px 0;
   }
 }
+
 
 
