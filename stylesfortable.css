@@ -1,0 +1,46 @@
+body {
+    font-family: Roboto, serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #8a2ce2;
+    color: #e6e6fa;
+    padding: 20px;
+    text-align: center;
+}
+
+header img {
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.confirmation-details, .planner, .client-details, .booking-summary {
+    background-color: #e6e6fa;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #8a2ce2;
+    margin-top: 0;
+}
+
+footer {
+    background-color: #8a2ce2;
+    color: #e6e6fa;
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
