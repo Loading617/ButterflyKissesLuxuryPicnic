@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Roboto:wght@300;400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" type="text/css" href="styles.css">
-    <link rel="stylesheet" type="text/css" href="script.js">
+    <link rel="stylesheet" type="text/javascript" href="script.js">
 </head>
 <body>
     <header>
@@ -20,12 +20,12 @@
             <nav>
                 <ul>
                     <li><a href="index.php">Home</a></li>
-                    <li><a href="about.php">About</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
                     <li><a href="picnic.php">Picnic</a></li>
-                    <li><a href="contact.php">Contact</a></li>
-                    <li><a href="belindahouse.php">Belinda House</a></li>
                     <li><a href="book.php">Book</a></li>
+                    <li><a href="thefounder.php">The Founder</a></li>
+                    <li><a href="contact.php">Contact</a></li>
+                    <li><a href="about.php">About</a></li>
                 </ul>
             </nav>
         </div>
@@ -91,3 +91,4 @@
         <a href="tel:+8039154747">(803) 915-4747</a> | Address Coming Soon! | Columbia, SC Event Planner
         </div>
     </footer>
+
