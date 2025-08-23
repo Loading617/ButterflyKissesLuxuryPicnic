@@ -33,7 +33,7 @@
     <main>
         <?php echo "<h1>Butterfly Kisses Luxury Picnic</h1>"; ?>
         <?php echo "<p>
-        At <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong>, we understand that every guest deserves a special and memorable day. Our passion for creating memorable and enjoyable experiences is what drives us to continue to provide you with the best possible services.
+        At <strong><span class="color">Butterfly Kisses Luxury Picnic</strong>, we understand that every guest deserves a special and memorable day. Our passion for creating memorable and enjoyable experiences is what drives us to continue to provide you with the best possible services.
         We are dedicated to allowing you to be able to share your experience with others in the community.
         Our task is to create a welcoming and loving environment where you can enjoy your picnic, celebrate your special day, and make the most of your time together.
         <br>
@@ -47,7 +47,7 @@
         We are always here to help. Every Event, you make us go harder at our future events.
         <br>
         <br>
-        The <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong> will help you with Date Nights, Birthdays & Anniversaries, to make event dreams come true.
+        The <strong><span class="color">Butterfly Kisses Luxury Picnic</strong> will help you with Date Nights, Birthdays & Anniversaries, to make event dreams come true.
         We'll offer you event design ideas and ways to implement them for your special event day. It's so easy to contact us! Book us to have us at your next event!
         </p>" ; ?>
     </main>
@@ -64,4 +64,5 @@
                 </div>
             </footer>
         </div>
+
 
