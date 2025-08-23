@@ -135,6 +135,10 @@ p{
   margin: 20px;
 }
 
+span {
+  color: var(--accent-color);
+}
+
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -523,3 +527,4 @@ footer {
       margin: 10px 0;
   }
 }
+
