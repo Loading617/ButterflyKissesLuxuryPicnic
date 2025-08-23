@@ -38,8 +38,8 @@
     <img src="belindahouse.jpg" alt="Belinda House" width="405" height="405" class="border-image" class="floating-img">
     </body>
     <?php echo"<p>
-    <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong>, Founded in 2022, Founder Belinda House, is an Event Planner for your event needs for your Date Nights, Birthdays & Anniversaries to make your picnic events come true.
-      We are committed to providing you with the best possible experience at our luxurious <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong>.
+    <strong><span class="color">Butterfly Kisses Luxury Picnic</strong>, Founded in 2022, Founder Belinda House, is an Event Planner for your event needs for your Date Nights, Birthdays & Anniversaries to make your picnic events come true.
+      We are committed to providing you with the best possible experience at our luxurious <strong><span class="color">Butterfly Kisses Luxury Picnic</strong>.
       Our mission is to create memorable and enjoyable experiences for our guests, while also ensuring that our facilities and services are of the highest quality and sustainability standards.
       Sharing passion for creating memorable and enjoyable experiences is what drives us to continue to provide you with the best possible services.
       With us, you deserve to enjoy your time with us as we always have a great time with you and you are all beautiful.
@@ -55,7 +55,7 @@
       We look forward to seeing you at our events and making sure that your picnic is a truly special and memorable experience for all of your guests.
       <br>
       <br>
-      Thanks for visiting our website <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong>. We hope to See you Again!!!! <strong><span style="color: rgb(191, 148, 228)">Say "I Do"!</strong>
+      Thanks for visiting our website <strong><span class="color">Butterfly Kisses Luxury Picnic</strong>. We hope to See you Again!!!! <strong><span style="color">Say "I Do"!</strong>
     </p>; ?>
 </main>
 </div>
@@ -76,6 +76,7 @@
 
 </body>
 </html>
+
 
 
 
