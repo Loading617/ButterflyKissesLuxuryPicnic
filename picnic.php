@@ -34,8 +34,8 @@
         <div class="container">
             <?php echo "<h1>Picnic & Events</h1>; ?>
             <?php echo "<p>
-            Here at, <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong> we here to celebrate provide a great event experience.
-            From the simple gatherings to the elaborate celebrations, <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong> offers a wide range of options to suit your needs.
+            Here at, <strong><span class="color">Butterfly Kisses Luxury Picnic</strong> we here to celebrate provide a great event experience.
+            From the simple gatherings to the elaborate celebrations, <strong><span class="color">Butterfly Kisses Luxury Picnic</strong> offers a wide range of options to suit your needs.
             Our menu offers a variety of food, drinks, and activities to make your picnic a memorable and enjoyable experience.
             <br>
             <br>
@@ -43,7 +43,7 @@
             By continuing to work at our events, we will give you the best possible services for your events.
             <br>
             <br>
-        The <strong><span style="color: rgb(191, 148, 228)">Butterfly Kisses Luxury Picnic</strong> will help you with Date Nights, Birthdays & Anniversaries, to make event dreams come true.
+        The <strong><span class="color">Butterfly Kisses Luxury Picnic</strong> will help you with Date Nights, Birthdays & Anniversaries, to make event dreams come true.
         We'll offer you event design ideas and ways to implement them for your special event day. It's literally easy to contact us! Book us to have us at your next event! 
         It's so easy to contact us! Book us to have us at your next event!
             </p>"; ?>
@@ -63,4 +63,5 @@
                 </div>
             </footer>
         </div>
+
 
