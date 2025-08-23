@@ -18,12 +18,12 @@
             <nav>
                 <ul>
                     <li><a href="index.php">Home</a></li>
-                    <li><a href="about.php">About</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
                     <li><a href="picnic.php">Picnic</a></li>
-                    <li><a href="contact.php">Contact</a></li>
-                    <li><a href="belindahouse.php">Belinda House</a></li>
                     <li><a href="book.php">Book</a></li>
+                    <li><a href="thefounder.php">The Founder</a></li>
+                    <li><a href="contact.php">Contact</a></li>
+                    <li><a href="about.php">About</a></li>
                 </ul>
             </nav>
         </div>
@@ -106,3 +106,4 @@
         </div>
 </body>
 </html>
+
