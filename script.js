@@ -30,7 +30,7 @@ function initFormValidation() {
       }
 
       const subject = `Booking Request: ${service}`;
-      const notes = document.getElementById("notes").value.trim();
+      const somethingelse = document.getElementById("somethingelse").value.trim();
 
       let body = `Name: ${name}\n`;
       body += `Email: ${email}\n`;
@@ -39,8 +39,8 @@ function initFormValidation() {
       body += `Date: ${date}\n`;
       body += `Time: ${time}\n`;
 
-      if (notes) {
-        body += `Notes: ${notes}\n`;
+      if (somethingelse) {
+        body += `Something Else: ${somethingelse}\n`;
       }
 
       const mailtoLink = `mailto:belindahouse40@gmail.com?subject=${encodeURIComponent(
@@ -168,3 +168,4 @@ document.addEventListener('DOMContentLoaded', () => {
         playPauseButton.click(); // Simulate button click
     });
 });
+
