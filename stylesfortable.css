@@ -37,10 +37,19 @@ h2 {
     margin-top: 0;
 }
 
+p {
+    color: #bf94e4;
+}
+
+span {
+  color: #8a2ce2;
+}
+
 footer {
     background-color: #8a2ce2;
     color: #e6e6fa;
     padding: 10px;
     text-align: center;
     clear: both;
+
 }
