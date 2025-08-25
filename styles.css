@@ -464,6 +464,7 @@ textarea {
 
 button {
   height: 50px;
+  width: 70px;
   background: var(--primary-color);
   border: none;
   color: white;
@@ -523,6 +524,7 @@ footer {
       margin: 10px 0;
   }
 }
+
 
 
 
