@@ -473,10 +473,6 @@ button {
   cursor: pointer;
 }
 
-button:hover {
-  border: 2px solid white;
-}
-
 .social-section {
   background-color: #bf94e4;
   padding: 20px;
@@ -527,6 +523,7 @@ footer {
       margin: 10px 0;
   }
 }
+
 
 
 
