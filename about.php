@@ -52,10 +52,10 @@
         </p>" ; ?>
     </main>
     <div class="social-section">
-    <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
-    <a href="https://www.facebook.com/profile.php?id=100083296629256" class="social-link" target="_blank"><i class="fab fa-facebook"></i></a>
-    <a href="https://www.tiktok.com/belindahouse0" class="social-link" target="_blank"><i class="fab fa-tiktok"></i></a>
-    <a href="https://www.instagram.com/house_belinda/" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
+    <a href="https://www.instagram.com/butterflykisses_luxurypicnic/" class="social-media-link" target="_blank"><i class="fab fa-instagram"></i></a>
+    <a href="https://www.facebook.com/profile.php?id=100083296629256" class="social-media-link" target="_blank"><i class="fab fa-facebook"></i></a>
+    <a href="https://www.tiktok.com/belindahouse0" class="social-media-link" target="_blank"><i class="fab fa-tiktok"></i></a>
+    <a href="https://www.instagram.com/house_belinda/" class="social-media-link" target="_blank"><i class="fab fa-instagram"></i></a>
     </div>        
         <footer>
                 <div class="container">
@@ -64,5 +64,5 @@
                 </div>
             </footer>
         </div>
-
-
+</body>
+</html>
