@@ -33,7 +33,7 @@
     <main>
         <div class="container">
             <h1>Welcome To Butterfly Kisses Luxury Picnic Website!</h1>
-            <?php echo "<h2>Say I do!</h2>"; ?>
+            <?php echo "<h2>"Say I do!"</h2>"; ?>
             <?php echo "<h2>Our Picnic Experiences</h2>"; ?>
             <main class="video-gallery">
         <div class="video-item" data-src="./vids/butterflykissesluxurypicnicvideo.mp4">
@@ -98,3 +98,4 @@
     </footer>
 </body>
 </html>
+
