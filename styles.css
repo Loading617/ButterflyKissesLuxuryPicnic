@@ -244,6 +244,17 @@ a{
   color: var(--accent-color);
 }
 
+.social-media-link {
+  color: var(--light-text);
+  font-size: 1.5em;
+  margin: 0 10px;
+  transition: color 0.3s ease;
+}
+
+.social-media-link:hover {
+  color: var(--primary-color);
+}
+
 .video-gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -524,6 +535,7 @@ footer {
       margin: 10px 0;
   }
 }
+
 
 
 
