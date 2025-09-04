@@ -74,7 +74,6 @@
             
   <button type="submit">Book Now</button>
 </form>
-<div id="message" style="display: none;">Thanks for Booking Us. We are Excited to Be At Your Event. See you Soon!</div>
     </div>
     </main>
 
@@ -95,6 +94,7 @@
     </footer>
     </body>
     </html>
+
 
 
 
