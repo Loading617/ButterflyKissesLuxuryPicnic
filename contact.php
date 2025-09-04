@@ -55,8 +55,6 @@
                         
   <button type="submit">Submit</button>
 </form>
-<div id="message" style="display: none;">Thanks for Contacting Us. We Will Hit You Back Soon!</div>
-                </div>
     </main>
                     
     <div class="social-section">
@@ -76,4 +74,5 @@
         </div>
 </body>
 </html>
+
 
