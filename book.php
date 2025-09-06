@@ -37,7 +37,7 @@
         <?php echo "<p>Book your picnic with us and enjoy the luxury of <strong><span class="color">Butterfly Kisses Luxury Picnic</strong>. Our picnic options include picnics, birthday parties, graduation celebrations, and anniversary events. Please let us know which event you'd like to book and we'll do our best to achieve.
         We'll make sure to accommodate your needs and preferences, and we'll provide you with the best possible experience. Please let us know if you have any questions or need further assistance.</p>"; ?>
         <form id="myForm">
-        <form action="script.js" method="post">
+        <form action="book.php" method="post">
             <label for="name">Name</label>
             <input type="text" id="name" name="name" placeholder="ex. Jessica House" required><br><br>
 
@@ -94,6 +94,7 @@
     </footer>
     </body>
     </html>
+
 
 
 
