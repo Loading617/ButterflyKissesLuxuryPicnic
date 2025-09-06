@@ -42,7 +42,7 @@
                 
                 <form id="myForm">
                 <div class="container">
-                    <form action="script.js" method="post">
+                    <form action="contact.php" method="post">
 
                             <label class="required">Name</label>
                             <input type="text" name="full_name" placeholder="ex. Alicia Smith" required>
@@ -74,5 +74,6 @@
         </div>
 </body>
 </html>
+
 
 
