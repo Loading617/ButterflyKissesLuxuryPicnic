@@ -59,47 +59,6 @@ function initFormValidation() {
   }
 }
 
-function initFormValidation() {
-  const contactForm = document.getElementById("contact-form");
-
-  if (contactForm) {
-    contactForm.addEventListener("submit", function (e) {
-      e.preventDefault();
-
-      const name = document.getElementById("name").value.trim();
-      const email = document.getElementById("email").value.trim();
-      const message = document.getElementById("message").value.trim();
-
-      if (!name || !email || !message) {
-        showNotification("Please fill out all required fields.", "error");
-        return;
-      }
-
-      const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-      if (!emailPattern.test(email)) {
-        showNotification("Please enter a valid email address.", "error");
-        return;
-      }
-
-      const subject = "Contact Form Submission";
-      const body = `Name: ${name}\nEmail: ${email}\nMessage: ${message}`;
-
-      const mailtoLink = `mailto:belindahouse40@gmail.com?subject=${encodeURIComponent(
-        subject
-      )}&body=${encodeURIComponent(body)}`;
-
-      window.location.href = mailtoLink;
-
-      contactForm.reset();
-
-      showNotification(
-        "Thank you for contacting us at Butterfly Kisses Luxury Picnic! We will get back to you as soon as possible.",
-        "success"
-      );
-    });
-  }
-}
-
 document.addEventListener('DOMContentLoaded', () => {
     const videoItems = document.querySelectorAll('.video-item');
     const videoModal = document.getElementById('videoModal');
@@ -209,5 +168,6 @@ document.addEventListener('DOMContentLoaded', () => {
         playPauseButton.click(); // Simulate button click
     });
 });
+
 
 
