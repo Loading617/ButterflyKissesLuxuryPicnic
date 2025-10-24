@@ -67,13 +67,14 @@
             <footer>
                 <div class="container">
                 <p>
-                &copy; 2022-2025 Butterfly Kisses Luxury Picnic. All rights reserved. | Address Coming Soon! | Columbia, SC Event Planner
+                &copy; <span id="year"></span> Butterfly Kisses Luxury Picnic. All rights reserved. | Address Coming Soon! | Columbia, SC Event Planner
                 </p>
                 </div>
             </footer>
         </div>
 </body>
 </html>
+
 
 
 
