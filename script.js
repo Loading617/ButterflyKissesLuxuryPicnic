@@ -169,5 +169,4 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-
-
+document.getElementById("year").innerHTML = 2022;
